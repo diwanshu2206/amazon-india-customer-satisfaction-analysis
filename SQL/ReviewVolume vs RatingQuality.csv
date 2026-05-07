@@ -1,0 +1,4 @@
+rating_tier,total_products,avg_rating,avg_price,avg_discount_pct
+"High (10k+)",534,4.15,3431,46.5
+"Medium (1k-10k)",567,4.10,3785,47.5
+"Low (<1k)",326,3.99,1797,53.5
